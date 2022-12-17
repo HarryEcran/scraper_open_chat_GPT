@@ -8,7 +8,7 @@ fh = open("output.txt", "a")
 
 #URL = "https://www.answers.com/guide/41472"
 
-for n in range(3754,60000):
+for n in range(12716,60000):
     print(str(n))
 
     try:
